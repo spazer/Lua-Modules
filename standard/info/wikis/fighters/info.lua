@@ -1610,6 +1610,19 @@ return {
 				lightMode = 'UNIEL Logo.png',
 			},
 		},
+		uni2 = {
+			abbreviation = 'UNIB',
+			name = 'Under Night In-Birth II: Sys Celes',
+			link = 'Under Night In-Birth II: Sys Celes',
+			logo = {
+				darkMode = 'Under Night-In Birth icon allmode.png',
+				lightMode = 'Under Night-In Birth icon allmode.png',
+			},
+			defaultTeamLogo = {
+				darkMode = 'UNIEL Logo.png',
+				lightMode = 'UNIEL Logo.png',
+			},
+		},
 		['project l'] = {
 			abbreviation = 'Project L',
 			name = 'Project L',
